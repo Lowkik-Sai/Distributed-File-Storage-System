@@ -16,7 +16,7 @@ Ensure you have the following installed:
 ## Installation & Setup
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/yourusername/distributed-file-storage.git
+git clone https://github.com/Lowkik-Sai/Distributed-File-Storage-System.git
 cd distributed-file-storage
 ```
 
